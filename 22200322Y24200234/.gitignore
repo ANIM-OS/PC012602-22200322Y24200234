@@ -1,0 +1,18 @@
+# Build output
+**/bin/
+**/obj/
+
+# IDE files
+.idea/
+.vscode/
+
+# Local configuration and secrets
+**/appsettings.Local.json
+**/appsettings.*.local.json
+.env
+.env.*
+!.env.example
+
+# Local database and tooling files
+*.dump
+*.bak
