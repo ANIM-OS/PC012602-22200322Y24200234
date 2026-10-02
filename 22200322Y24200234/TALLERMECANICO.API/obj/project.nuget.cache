@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4p9R1Ozi2uY=",
+  "success": true,
+  "projectFilePath": "/home/rgs_dev/NET/22200322Y24200234/TALLERMECANICO.API/TALLERMECANICO.API.csproj",
+  "expectedPackageFiles": [
+    "/home/rgs_dev/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/home/rgs_dev/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

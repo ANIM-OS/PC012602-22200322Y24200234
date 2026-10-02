@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TALLERMECANICO.API", "TALLERMECANICO.API\TALLERMECANICO.API.csproj", "{FEA52DB9-93BD-4703-A08D-E361F71DC26D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TALLERMECANICO.CORE", "TALLERMECANICO.CORE\TALLERMECANICO.CORE.csproj", "{68A09CAD-3384-4D6E-89C5-7B77D1FD9629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA52DB9-93BD-4703-A08D-E361F71DC26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA52DB9-93BD-4703-A08D-E361F71DC26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA52DB9-93BD-4703-A08D-E361F71DC26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA52DB9-93BD-4703-A08D-E361F71DC26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A09CAD-3384-4D6E-89C5-7B77D1FD9629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A09CAD-3384-4D6E-89C5-7B77D1FD9629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A09CAD-3384-4D6E-89C5-7B77D1FD9629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A09CAD-3384-4D6E-89C5-7B77D1FD9629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
